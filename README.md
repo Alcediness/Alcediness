@@ -59,3 +59,9 @@
 <img src="https://raw.githubusercontent.com/Alcediness/Alcediness/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Alcediness/count.svg?"  />
+</div>
+
+###
